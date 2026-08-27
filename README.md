@@ -20,8 +20,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 ## Program
 
 ```
-Name: Pranitha S
-Register Number: 212225040312
+Name: A S Balaaji Aadesh
+Register Number: 212225040039
 ```
 
 ```
